@@ -1,0 +1,44 @@
+{
+  "InternetSearch": {
+    "testName": "001 Internet Search",
+    "testClientUrl": "",
+    "testDataUrl": "TEST/data/xlsx/successfactors/001 Internet Search.xlsx",
+    "testDataDirectory": "TEST/data/xlsx/successfactors",
+    "testDataName": "001 Internet Search",
+    "sheetName": "001 SearchInternetForPage"
+  },
+  "InternetSearch2": {
+    "testName": "002 Internet Search",
+    "testClientUrl": "",
+    "testDataUrl": "TEST/data/xlsx/successfactors/002 Internet Search.xlsx",
+    "testDataDirectory": "TEST/data/xlsx/successfactors",
+    "testDataName": "002 Internet Search",
+    "sheetName": "002 SearchInternetForPage"
+  },
+  "Hire": {
+    "testName": "003 Hire",
+    "testClientUrl": "https://salesdemo.successfactors.eu/login?company=SFPART060364",
+    "login": "sfadmin",
+    "password": "Welcome@2468",
+    "testDataUrl": "TEST/data/xlsx/successfactors/003 SuccessFactors Data Workbook.xlsx",
+    "testDataDirectory": "TEST/data/xlsx/successfactors",
+    "testDataName": "003 Hire",
+    "sheetName": "EC"
+  },
+  "AddNewCohort1": {
+    "testName": "001 Create a learning cohort",
+    "testClientUrl": "https://hcm2preview.sapsf.eu/login?bplte_logout=1&amp;company=shopritechT1&amp;_s.crb=fo0axC7YS19e3XLQ77ATDfHqt1D92EQQFeI7kQee0n0%253d#/login",
+    "testDataUrl": "TEST/data/xlsx/core/001 Create a Learning Cohort.xlsx",
+    "testDataDirectory": "TEST/data/xlsx/core",
+    "testDataName": "001 Create a Learning Cohort",
+    "sheetName": "002 Create a Cohort"
+  },
+  "AddNewCohort2": {
+    "testName": "001 Create a learning cohort",
+    "testClientUrl": "https://hcm2preview.sapsf.eu/login?bplte_logout=1&amp;company=shopritechT1&amp;_s.crb=fo0axC7YS19e3XLQ77ATDfHqt1D92EQQFeI7kQee0n0%253d#/login",
+    "testDataUrl": "TEST/data/xlsx/core/001 Create a Learning Cohort.xlsx",
+    "testDataDirectory": "TEST/data/xlsx/core",
+    "testDataName": "001 Create a Learning Cohort",
+    "sheetName": "002 Create a Cohort"
+  }
+}
